@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6dd2b77-ad13-462c-a2d1-d96cfb9f51cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="F:\workspace\setting.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bR44xeLlAQFrLhP2TdI3N6q06E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../storm-helloworld/pom.xml" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.scott.eshop.storm.zk" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6dd2b77-ad13-462c-a2d1-d96cfb9f51cc" name="Default Changelist" comment="" />
+      <created>1588581384924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588581384924</updated>
+      <workItem from="1588581388592" duration="12639000" />
+      <workItem from="1588599258435" duration="9210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1305" y="252" key="#com.intellij.ide.util.MemberChooser" timestamp="1588584626115">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1305" y="252" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1588584626115" />
+    <state x="1201" y="298" key="FileChooserDialogImpl" timestamp="1588601833128">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1201" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1588601833128" />
+    <state x="880" y="185" key="SettingsEditor" timestamp="1588581782853">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="880" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1588581782853" />
+    <state x="1177" y="276" width="647" height="534" key="find.popup" timestamp="1588602747264">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1177" y="276" width="647" height="534" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588602747264" />
+    <state x="1163" y="242" width="672" height="678" key="search.everywhere.popup" timestamp="1588604747141">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1163" y="242" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588604747141" />
+  </component>
+</project>
