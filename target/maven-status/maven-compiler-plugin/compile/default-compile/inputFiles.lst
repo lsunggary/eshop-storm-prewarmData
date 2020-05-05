@@ -1,5 +1,6 @@
 F:\workspace\eshop-storm\src\main\java\com\scott\eshop\storm\spout\AccessLogKafkaSpout.java
 F:\workspace\eshop-storm\src\main\java\com\scott\eshop\storm\zk\ZookeeperSession.java
+F:\workspace\eshop-storm\src\main\java\com\scott\eshop\storm\http\HttpClientUtils.java
 F:\workspace\eshop-storm\src\main\java\com\scott\eshop\storm\bolt\LogParseBolt.java
 F:\workspace\eshop-storm\src\main\java\com\scott\eshop\storm\HotProductTopology.java
 F:\workspace\eshop-storm\src\main\java\com\scott\eshop\storm\bolt\ProductCountBolt.java
